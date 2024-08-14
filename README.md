@@ -1,8 +1,8 @@
 # Sivachaitanya_Muntha
 
-![image](https://github.com/Harsha-10/Harsha-10/assets/94053954/a05365d7-7b3b-4172-96a9-285db615c71d)
+
 # 💫 About Me:
-🔭 I’m currently pursuing my BTech in CSE at *Vellore institute of technology,Chennai<br>👯 I’m currently learning **Cloud native,PostgreSQL<br>🤝 I’m passionate about contributing to **OpenSource*<br>🌱 How to reach me - dharsha9949@gmail.com
+🔭 Hey this is Sivachaitanya i'm currently pursuing my BTech in CSE at *Vellore institute of technology,Chennai<br>👯 I’m currently learning **Cloud native,PostgreSQL<br>🤝 I’m passionate about contributing to **OpenSource*<br>🌱 How to reach me - dharsha9949@gmail.com
 ## 🌐 Socials:
 Connect with me! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshodai-divvela-44043a223) 
