@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 Hey, this is Sivachaitanya! I'm currently pursuing my BTech in CSE at *Vellore Institute of Technology, Chennai*.<br>👯 I’m currently working on or learning **Azure Clouds, web development,** and **DSA**.<br>🤝 I’m passionate about contributing to **OpenSource**.<br>🌱 How to reach me - sivachaitanya5931@gmail.com
+🔭 Hey, this is Sivachaitanya! I'm currently pursuing my BTech in CSE at *Vellore Institute of Technology, Chennai*.<br>👯 I’m currently working on or learning **Azure Clouds, web development,** and **DSA**.<br>🤝 I’m passionate about contributing to **OpenSource**.<br>🌱 How to reach me - sivachaitanya5931@gmail.com .<br> 🌐 Visit my portfolio: [My Portfolio](https://myself-sivachaitanya.vercel.app)
 ## 🌐 Socials:
 Connect with me! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivachaitanya-m/)   
